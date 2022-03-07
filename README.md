@@ -3,8 +3,10 @@ Mi nombre es Leandra Caro y actualmente trabajo como Data Scientist y Data Analy
 
 - 🔭 El lenguaje que uso actualmente es Python y hago uso de programas para científicos de datos facilitados por AWS.
 - ⚡ Ahora mismo, una de las herramientas que más utilizo es Power BI para Reporting, Business Intelligence y Analítica.
-- 🌱 Tengo algunos proyectos propios y colaborativos que podeís encontrar en mis repositorios de GitHub.
-- 📫 Podeíes contactarme en [Linkedin](https://www.linkedin.com/in/leandracaropadr%C3%B3n/)
+- 🌱 Tengo algunos proyectos propios y colaborativos que podeís ver en mis repositorios de GitHub.
+- 📫 Podéis encontrarme en [Linkedin](https://www.linkedin.com/in/leandracaropadr%C3%B3n/).
+
+### Gracias! 😄
 
 
 <!--
