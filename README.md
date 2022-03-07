@@ -1,5 +1,5 @@
-### Hola a todos!! 👋
-## Mi nombre es Leandra Caro y actualmente trabajo como Data Scientist y Data Analyst en un puesto de Investidora I+D+i aplicada a IA.
+### Hola a todos!! 👋👋
+Mi nombre es Leandra Caro y actualmente trabajo como Data Scientist y Data Analyst en un puesto de Investidora I+D+i aplicada a IA.
 
 <!--
 **LeaCarop/LeaCarop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
