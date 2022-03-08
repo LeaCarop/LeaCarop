@@ -1,5 +1,5 @@
 ### Hola a todos!! 👋👋
-Mi nombre es Leandra Caro y actualmente trabajo como Data Scientist y Data Analyst en un puesto de Investigadora I+D+i aplicada a IA.
+Mi nombre es Leandra Caro y trabajo como Data Scientist y Data Analyst en un puesto de Investigadora I+D+i aplicada a IA.
 
 - 🔭 El lenguaje que uso actualmente es Python y hago uso de otros programas para científicos de datos facilitados por AWS.
 - ⚡ Ahora mismo, una de las herramientas que más utilizo es Power BI para Reporting, Business Intelligence y Analítica.
